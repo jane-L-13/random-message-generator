@@ -1,1 +1,12 @@
 h2 {text-align: center;}
+
+*{background-color: #cce7dc}
+
+.Happy{
+  display: inline-block;
+  width: 40%;
+}
+
+.Sad{
+  width: 40%;
+}
