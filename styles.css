@@ -1,6 +1,7 @@
 h2 {text-align: center;}
 
-*{background-color: #cce7dc}
+*{background-color: #cce7dc;
+text-align: center;}
 
 .Happy{
   display: inline-block;
